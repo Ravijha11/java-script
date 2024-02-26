@@ -1,6 +1,10 @@
-function ravi (){
+// function ravi (){
 
-    console.log("ravi jha software engineer")
+//     console.log("ravi jha software engineer")
 
-}
-ravi();
+// }
+// ravi();
+
+let a = "wqbwejbewjhewkewew";
+let b = "wuhwqhqwhqwhweknnkew";
+console.log(a+b);
