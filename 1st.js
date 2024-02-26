@@ -7,4 +7,6 @@
 
 let a = "wqbwejbewjhewkewew";
 let b = "wuhwqhqwhqwhweknnkew";
-console.log(a+b);
+console.log(a.toUpperCase);
+console.log(b.toLowerCase);
+
