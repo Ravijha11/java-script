@@ -12,3 +12,5 @@ function count(n){
 }
 
 console.log(count(5485665)); // Output: 7 (number of digits in 5485665)
+
+
