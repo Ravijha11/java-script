@@ -23,4 +23,7 @@ b = [555,5565,5545,5555];
 let c = new Array('dhdh','dheueh','shwhweuuhew')
 // console.log(c)
  let d = (a.includes(555));
- 
+
+
+ let raci = [55,555,898785,5654521,6555482,95565]
+console.log(raci.reverse()) 
